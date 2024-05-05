@@ -1,0 +1,1287 @@
+﻿BlocRevue@font-face {
+  font-family: 'Tw-Cen-MT-Medium';
+  font-style: normal;
+  src: url('Fonts-Webs/Tw-Cen-MT-Medium.ttf');
+}
+a img {border:none;}
+Body {background:url(images/Design/main-tail.jpg) repeat-x;}
+
+/*Top Head Page*/
+.TopPageHead{width:980px;height:auto;padding-bottom:0px;
+            margin-left:auto;margin-right:auto;margin-top:30px;
+            background-color:#fff;
+            background-image:url(images/Design/Banner-Up.jpg);
+            background-repeat:no-repeat;}
+
+
+			
+			
+			
+
+/*Menu Access Rapide dans le Header*/
+.MnAcces1 {margin-right:1px;}
+
+.MnAcces1 a{text-decoration:none;
+          color:#fff;
+		  padding-left:4px;padding-right:4px;padding-bottom:2px;
+		  font-family:Verdana, Geneva, sans-serif;font-size:12px;
+		  background:url(images/Design/transparent_bg.png) repeat-x;
+		  
+		  	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	behavior: url(scriptIE/PIE.htc);}
+
+.MnAcces1 a:hover{background-image:none;background-color:#fff;
+                  color:#000;}	
+	
+	
+/*Fin Menu Acces Rapide dans le Header*/
+
+
+
+
+			
+
+
+
+/*Debut Menu Horizontal*/
+.Div_MenuHorizontal{background-image:url(images/Design/navigation-Hover.png);background-repeat:repeat-x;
+                        height:40px;width:100%;padding:0px;color:#fff;
+						
+						margin-left:auto;margin-right:auto;
+                        
+                       margin-bottom:0px;overflow:hidden;}
+						
+						
+#UL_Menu_Haut {height:40px;padding-left:10px;margin-bottom:0px;margin-top:0px; list-style:none;width:100%;margin-left:auto;margin-right:auto;}
+
+#UL_Menu_Haut li {float:left; margin-right:1px;margin-top:1px;}	
+
+
+
+
+
+
+.Unselected {text-decoration:none;color:#fff; letter-spacing:1px;
+                    
+                 
+				 display:block;
+                 
+				 text-align:center;
+				 font-size:13px;
+				 font-family:"Lucida Grande",  sans-serif;
+				 
+				 padding-top:11px;padding-bottom:11px;
+				 
+				 padding-left:6px;
+				 padding-right:6px;
+				 
+				 }	 
+
+.Unselected:hover {
+	color:#000;
+	
+	background-color:#fff;
+    
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	behavior: url(scriptIE/PIE.htc);
+
+	
+}
+/*Fin Menu Horizontal*/
+
+
+
+
+
+
+
+/*BlocDEFIL*/
+#BlocDEFIL{width:980px;height:25px;          
+            margin-left:auto;margin-right:auto;margin-top:2px;}
+			
+#AnnonceBtn{width:14%;height:22px;
+                        color:#fff;
+                        padding-top:4px;
+                        margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px;
+                        font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+                        font-size:13px;
+                        background-image:url(images/Design/fd_menuaccueil.gif);}					
+			
+#Marquee{height:21px;
+                            color:#0f5ea5;
+                            font-size:14px; 
+                            font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+                            padding-top:4px;
+                            }			
+
+
+#CorpsPage{width:980px;height:auto;
+            padding-bottom:10px;
+            margin-left:auto; margin-right:auto;}			
+			
+
+/*Bloc Actu + Informations*/
+#ActuInfoBloc{width:100%;height:auto;padding:0px; background-color:#fff;margin-bottom:0px;}			
+
+
+#InfoBlocContainer{margin-top:-300px;
+            margin-bottom:0px;
+            width:24%;height:auto;
+            padding-bottom:0px;
+            background-color:#fff;
+            background-image:url(images/box_1.jpg);
+            background-position:top;
+            background-repeat:repeat-x}
+
+/*Informations*/
+.TitleBlue{font-weight:normal;
+                       font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+                       font-size:13px;color:#07306d;
+                       margin-bottom:12px;}
+					   
+.BlocInfo{width:98%;height:110px;
+                        background-color:#666;
+                        background-image:url(images/Design/fd_site.gif);
+                        background-repeat:repeat-x;
+						margin-left:auto;
+						margin-right:auto;
+                        margin-bottom:4px;
+                        margin-top:0px;
+                        border:solid 1px #CCC}
+
+
+.ImgActuInfo{float:left;height:49px;width:32%;
+	
+	margin:6px 4px 4px 6px;
+	
+	padding:3px;
+	border:#C5C5C5 solid 1px;}
+	
+.TitleInfo{font-weight:normal;
+            font-family:'Oxygen', Geneva, sans-serif;
+			
+            font-size:12px;
+            margin:4px 2px 4px 2px;
+			height:80px;
+			width:58%;}
+			
+.TitleInfo a{text-decoration:none;color:#07306d;}	
+.TitleInfo a:hover{color:#F00;text-decoration:underline;}	
+
+
+
+.InfoLink{font-weight:normal;
+            font-family:'Oxygen', Geneva, sans-serif;
+			
+            font-size:12px;
+            margin:4px 2px 4px 2px;
+			height:20px;
+            padding-left:0px;}
+			
+
+.TitleInfo a{text-decoration:none;color:#07306d;}	
+.TitleInfo a:hover{color:#F00;text-decoration:underline;}	
+				
+/*Fin Informations*/
+
+
+
+
+.button{position:relative;
+float:right;
+	text-decoration:none;
+	display:inline-block;
+	font: 200 12px 'Droid Sans', sans-serif;
+	color:#000;
+	text-shadow:1px 1px 0px #fff;
+	background:url(images/Design/button-tail.gif) center top repeat-x #dedede;
+	padding:5px 11px 4px;
+	margin:-4px 8px 4px 4px;
+	cursor:pointer;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	box-shadow:0px 2px 5px #969696;
+	-moz-box-shadow:0px 2px 5px #969696;
+	-webkit-box-shadow:0px 2px 5px #969696;
+}
+
+.button:hover{text-decoration:none; background-position:center -49px; background-color:#fff;color:#07306d}
+
+
+
+
+
+
+
+/*Debut Bloc des 4 Couleurs*/
+#Bloc4Couleurs{width:100%;height:auto;
+             background-color:#fff;margin-top:5px;
+             background-image:url(images/Design/bg-bottom.png);
+             background-repeat:repeat-x;
+             border-top:solid 1px #00368e;
+             border-bottom:solid 1px #00368e;}
+
+
+.Title1{width:80%;height:16px;
+margin-left:auto;margin-right:auto;
+margin-top:4px;
+        
+        padding-top:4px;padding-bottom:4px;
+        
+        font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:13px;}
+
+.RectRnd{width:70%;height:130px;
+         margin-left:auto;margin-right:auto;
+         margin-top:10px;
+		 cursor: pointer;}
+		 
+.RectRnd:hover .ImgRnd{border:solid 2px #9199a4;}
+
+.ImgRnd{/*width:50%;height:auto;*/
+         margin-top:4px;
+         border:solid 2px #fff;
+         padding:2px;}
+
+
+.RectRndMini{width:16%;height:8px;
+         margin-left:auto;margin-right:auto;
+         margin-top:-6px;
+		 
+		 }
+
+
+.Lien22{font-weight:normal;text-decoration:none;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:12px;
+		color:#282828;
+		padding:4px 10px 4px 10px;
+		background:url(images/Design/button-tail.gif) center top repeat-x #dedede;
+		 -moz-border-radius:8px;
+	      -webkit-border-radius:8px;
+	       border-radius:8px;
+	        behavior: url(scriptIE/PIE.htc);
+}
+			
+			
+.Lien22:hover{color:#930;
+              }			
+
+
+
+.Lien5Blocs{font-weight:normal;text-decoration:underline;
+        font-family:'Oxygen', Geneva, sans-serif;
+        font-size:11px;
+		color:#282828;
+		padding:4px 4px 4px 4px;	
+}			
+.Lien5Blocs:hover{color:#930; }
+             			
+
+.Paragraph5Blocs{font-weight:normal; 
+        font-family:'Oxygen', Geneva, sans-serif;
+        font-size:12px;
+		line-height:18px;
+		color:#282828;
+		padding:4px 4px 4px 4px;	
+}
+
+
+
+
+			
+			
+			
+.Texte22{font-weight:normal;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:12px;
+		color:#282828;
+            
+			}			
+			
+.BlocDes4{width:20%/*24.5%*/;height:330px;}					
+			
+.BlocDes4 h3 a{}			
+			
+.BlocDes4 h3 {margin-top:10px;margin-bottom:8px}			
+			
+	
+	
+	
+			
+/*Menus Verticaux*/
+.TitleMnu{
+width:60%;margin-left:auto;margin-right:auto;
+margin-top:30px;margin-bottom:8px;
+        
+        padding-top:4px;
+        letter-spacing:2px;
+        font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#403f3f;
+		
+		padding:4px 4px 4px 4px;
+		background:url(images/Design/button-tail.gif) center top repeat-x #dedede;
+		-moz-border-radius:8px;
+	    -webkit-border-radius:8px;
+	     border-radius:8px;
+	     behavior: url(scriptIE/PIE.htc);
+		
+		
+		}
+
+
+.ULBloc{ font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+         font-size:13px;
+		 text-align:left;color:#1f67cb;}			
+			
+.ULBloc li{
+background-repeat: no-repeat;
+background-position: 0px 2px;
+background-image: url('images/Design/Arrow-Blue1.png');
+padding-left:15px;padding-bottom:5px;
+margin-bottom:4px;}			
+	
+		
+.ULBloc li:hover{
+background-image: url('images/Design/Arrow-Blue.png');
+background-position: 2px 2px;
+}			
+		
+
+.LienDedans{}
+
+	
+.ULBloc li a{text-decoration:none;color:#787575;}		
+			
+			
+.ULBloc li a:hover{color:#1f67cb;}			
+			
+			
+			
+			
+			
+			
+			
+			
+
+.ULBloc2{ font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+         font-size:13px;
+		 text-align:left;color:#1f67cb;}			
+			
+.ULBloc2 li{
+background-repeat: no-repeat;
+background-position: 0px 2px;
+background-image: url('images/Design/Arrow-Blue1.png');
+padding-left:15px;padding-bottom:5px;
+margin-bottom:4px;
+line-height:19px;}			
+	
+		
+.ULBloc2 li:hover{
+background-image: url('images/Design/Arrow-Blue.png');
+background-position: 2px 2px;
+}			
+		
+	
+.ULBloc2 li a{text-decoration:none;color:#787575;}		
+			
+			
+.ULBloc2 li a:hover{color:#1f67cb;}			
+			
+			
+					
+			
+			
+			
+			
+			
+
+/*MENU DEROULANT BLUE*/
+/*
+ * @freebie: blue-notification-navigation
+ * @author: Francisco Neves
+ */
+
+ul.blue-notification-navigation { width: 200px; padding: 0; font-size: 12px; }
+ul.blue-notification-navigation * { list-style: none; }
+
+ul.blue-notification-navigation > li > div.header { 
+
+padding:3px 4px 3px 4px; 
+-moz-box-shadow: inset 0 9px 12px -11px #fff; 
+-webkit-box-shadow: inset 0 9px 12px -11px #fff; 
+box-shadow: inset 0 9px 12px -11px #fff; 
+
+
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	behavior: url(scriptIE/PIE.htc);
+		
+
+}
+
+ul.blue-notification-navigation > li:last-child > div.header { border-bottom: none; }
+ul.blue-notification-navigation > li ul { padding: 0; margin: 0 2px; }
+ul.blue-notification-navigation > li ul li { background: no-repeat 10px #2d5fb2; padding: 4px; color: #fff; }
+
+ul.blue-notification-navigation > li ul li a{ text-decoration:none; color: #fff; font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+         font-size:13px;}
+
+
+
+
+ul.blue-notification-navigation > li ul li.iconize { padding-left: 8px; }
+ul.blue-notification-navigation > li ul li:first-child { border-top: none; -moz-box-shadow: inset 0 9px 12px -11px #000; -webkit-box-shadow: inset 0 9px 12px -11px #000; box-shadow: inset 0 9px 12px -11px #000; }
+ul.blue-notification-navigation > li ul li:last-child { border-bottom: none; }
+ul.blue-notification-navigation div.header
+{
+	position: relative;
+	text-align: center;
+	color: #fff;
+	
+	
+    /*NOUVEAU*/
+        letter-spacing:2px;
+        font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#403f3f;
+		background:url(images/Design/button-tail.gif) center top repeat-x #dedede;
+
+
+		padding:4px 4px 4px 4px;
+		
+
+	/*NOUVEAU*/
+	
+
+}
+ul.blue-notification-navigation > li > div.header > .label {display: table; width: 100%; padding: 5px 0px; background: no-repeat left center; }
+
+
+/* Mouse Events */
+ul.blue-notification-navigation div.header:hover
+{   color:#006;
+
+	cursor: pointer;
+}
+
+ul.blue-notification-navigation > li ul li:hover
+{
+	background-color: #547fc6;
+
+	cursor: pointer;
+}			
+			
+			
+/**/
+.ImgRnd2{width:22%;height:auto;
+         margin-top:8px;
+		 margin-left:20px;
+		 margin-bottom:8px;
+         border:solid 2px #c83f1b;
+         padding:2px;}
+			
+.TitleDoc{font-weight:normal;
+                       font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+                       font-size:13px;color:#666464;
+                       margin-bottom:12px;}			
+			
+			
+			
+.paragraphs{color:#403f3f;
+            font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+            font-size:14px;text-indent:10px;
+			margin-top:5px;margin-bottom:5px;
+			line-height:18px;}			
+			
+			
+			
+			
+			
+.button2{position:relative;
+float:right;
+	text-decoration:none;
+	display:inline-block;
+	font: 200 12px 'Droid Sans', sans-serif;
+	color:#07306d;
+	text-shadow:1px 1px 0px #fff;
+	background:url(images/Design/button-tail.gif) center top repeat-x #dedede;
+	padding:5px 11px 4px;
+	margin:-10px 8px 4px 4px;
+	cursor:pointer;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	box-shadow:0px 2px 5px #969696;
+	-moz-box-shadow:0px 2px 5px #969696;
+	-webkit-box-shadow:0px 2px 5px #969696;
+}
+
+.button2:hover{text-decoration:none; background-position:center -49px; background-color:#fff;color:#000}
+			
+			
+			
+.DocuRct{float:left;
+               width:48%;height:30px;
+               background-color:#2d5fb2;
+               margin-left:5px;margin-bottom:4px;
+			   padding-top:8px;
+			   border: solid 1px #fff;
+			   }			
+.DocuRct:hover{background-color:#edede5;
+               border: solid 1px #2d5fb2;}			
+			
+.DocuRct a{float:left;
+           padding-top:2px;
+           color:#fff;text-decoration:none;
+           font-weight:normal;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+		   font-size:14px;
+		   display:block;
+
+		   
+		   }		
+			
+			
+.DocuRct a:hover{	color:#2d5fb2	}	
+			
+#Bloc-Galerie{float:left;width:96%;height:110px;padding-top:0px;
+            			background-image:url(images/Design/footer4.png);
+			background-repeat:repeat-x;
+            margin-top:10px;margin-left:10px;margin-bottom:10px;
+            
+            border:solid 1px #e1dede;}			
+			
+#Bloc-Galerie img {margin:2px 3px 4px 6.5px;float:left;}
+
+
+
+
+#TextContacts{color:#666464;font-family:Ma-Super-Fonte-2, Geneva, sans-serif;font-size:13px;}
+
+
+
+/*Footer Le pied de page*/
+#Footer{width:980px;height:148px;
+            padding-bottom:10px;
+            margin-left:auto; margin-right:auto;
+            margin-top:20px;margin-bottom:100px;
+			background-image:url(images/Design/footer4.jpg);
+			background-repeat:repeat-x;
+			}
+
+.UlFooter{ list-style:none;padding-right:10px;border-right:solid 1px #40505e;height:110px;}
+
+
+.UlFooter li a{font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+               font-size:12px;color:#fff;
+               text-decoration:none;
+			    }
+
+.UlFooter li {line-height:16px;margin-bottom:4px;}			   
+	
+.UlFooter li a:hover{color:#FF0;}		   
+			   
+			   
+			   
+#Bloc-Footer{width:100%;height:20px;
+               letter-spacing:0.8px; 
+               margin-left:8px;
+               margin-top:20px;margin-bottom:8px;
+               padding-top:8px;
+               background-color:#9bbddb;
+			   border:solid 1px #9bbddb;}			   
+#Bloc-Footer:hover{border:solid 1px #fff;}			   
+			   
+#Bloc-Footer a{text-decoration:none;color:#0b355b;}			   
+			   
+			   
+#Bloc-Footer a:hover{color:#fff;}			   
+			   		   
+			   
+			   
+/*Partie Actualite du bas*/
+
+
+/*ACTUALITE DU BAS*/
+.TitreActuBas{letter-spacing:0.8px;
+        font-weight:normal;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#fff;
+        
+        width:98%;
+		margin-left:auto;margin-right:auto;
+        margin-top:20px;margin-bottom:10px;
+		
+		padding-top:4px;padding-bottom:4px;
+		background-color:#2d5fb2;}
+		
+.TitreAgendaBas{letter-spacing:0.8px;
+        font-weight:normal;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#fff;
+        
+        width:100%;
+		margin-left:auto;margin-right:auto;
+        margin-top:00px;margin-bottom:10px;
+		
+		padding-top:4px;padding-bottom:4px;
+		background-color:#990066;}					   
+
+.TitreGalerie{letter-spacing:0.8px;
+        font-weight:normal;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#fff;
+        
+        width:98%;
+		margin-left:auto;margin-right:auto;
+        margin-top:10px;margin-bottom:10px;
+		
+		padding-top:4px;padding-bottom:2px;
+		background-color:#7da03a;}	
+
+
+.TitreVideo{letter-spacing:0.8px;
+        font-weight:normal;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#fff;
+        
+        width:98%;
+		margin-left:auto;margin-right:auto;
+        margin-top:10px;margin-bottom:10px;
+		
+		padding-top:4px;padding-bottom:2px;
+		background-color:#b5382b;}	
+
+
+
+.BlocActu{width:98%;height:122px;
+                        background-color:#666;
+                        background-image:url(images/Design/fd_site.gif);
+                        background-repeat:repeat-x;
+						margin-left:auto;
+						margin-right:auto;
+                        margin-bottom:4px;
+                        margin-top:0px;
+                        border:solid 1px #CCC}
+
+.DateMiseLigne{font-family:'Oxygen', Geneva, sans-serif;
+               margin-top:2px;margin-bottom:4px;
+			   font-size:11px;
+			   color:#666}
+
+
+.desc256{color:#000;margin-top:0px;width:100%;
+               font-family:'Oxygen', Geneva, sans-serif;font-size:11px;}
+			   
+.ImgActu{float:left;height:80px;width:24%;
+	
+	margin:20px 4px 4px 6px;
+	
+	padding:3px;
+	border:#C5C5C5 solid 1px;}
+	
+.TitleActu{font-weight:normal;
+            font-family:'Oxygen', Geneva, sans-serif;
+			
+            font-size:13px;
+            margin:4px 2px 4px 2px;
+			height:45px;}
+			
+.TitleActu a{text-decoration:none;color:#2d5fb2;}	
+.TitleActu a:hover{color:#F00;text-decoration:underline;}	
+				
+/*Fin ACTUALITE DU BAS*/
+
+
+/*Elements d'agenda*/
+.CalendarBx{ width:23%;height:70px;
+             background-color:#fff;
+             margin:20px 1px 0 7px;
+			 border:solid 1px #CCC;}  
+	  
+
+.CalendarBx2{ width:8%;height:60px;
+             background-color:#fff;
+             margin:10px 1px 0 7px;
+			 border:solid 1px #CCC;} 
+		  
+
+.Month{     color:#fff;background-color:#906;
+            font-weight:normal;font-size:16px;font-family:"Oxygen",  sans-serif;
+			
+            letter-spacing:0.2px; 
+			padding-top:1px;padding-bottom:1px;
+			text-align:center;
+			margin-top:4px;margin-bottom:0px;}
+	  
+.Date{      color:#000;
+            font-family:"Oxygen",  sans-serif;
+            font-weight:bold;font-size:14px;
+            letter-spacing:0.2px; 
+			padding-top:0px;padding-bottom:0px;
+			text-align:center;
+			margin-top:0px;
+			margin-bottom:0px}	  
+	  
+	  
+.Year{      color:#b51d20;
+font-family:"Oxygen",  sans-serif;
+            font-weight:normal;font-size:12px;
+            letter-spacing:0.2px; 
+			padding-top:1px;padding-bottom:0px;
+			text-align:center;
+			margin-top:0px;}	  
+	  
+	  
+.TitleAgenda{font-weight:normal;
+            font-family:'Oxygen', Geneva, sans-serif;
+			
+            font-size:14px;
+            margin:10px 2px 4px 3px;
+			height:80px;}
+			
+.TitleAgenda a{text-decoration:none;color:#282828;}	
+.TitleAgenda a:hover{color:#F00;text-decoration:underline;}
+
+.TitleAgenda div{color:#009;height:80px;width:100%;}
+
+
+
+#BlocCalendrier{width:50%;height:auto;
+                float:left;
+				margin-right:0px;
+				padding-bottom:10px;
+				}
+
+
+/*Page Events*/
+.TitleEvent{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:16px;color:#07306d;
+			margin-top:10px;
+            margin-bottom:2px;
+			margin-left:20px}
+
+
+
+.DatePub{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:14px;color:#ccc;
+			margin-left:20px;
+			margin-top:0px;
+			margin-bottom:4px;}
+
+.ImgEvent{padding:3px;border:solid 1px #CCC;background-color: #FDFDFD;
+            box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15) inset;
+            margin:2px 0 8px 50px;}
+
+.DétailEvent{font-weight:400;
+         font-family:'Open Sans', Geneva, sans-serif;
+         font-size:14px;color:#000;
+		 margin-left:20px;
+		 margin-top:10px;
+		 margin-bottom:4px;
+		 text-indent:20px;
+		 padding-right:20px;
+		 padding-bottom:30px;}
+
+.RightBlocEvent{width:30%;height:auto;
+                padding-top:0px;}
+
+.LeftBlocEvent{width:70%;height:auto;background-color: #FDFDFD;
+             box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15) inset;}
+
+.BlocEventBig{width:100%;height:auto;background-color: #FDFDFD;
+             box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15) inset;}
+
+
+
+/*Bloc Right Events*/
+.TitleBxBlue{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:16px;color:#fff;
+			padding-top:8px;
+            margin-bottom:2px;}
+
+
+.LinkBxBlue{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:13px;
+			padding-top:4px;
+			padding-bottom:4px;
+			padding-left:8px;
+			color:#fff;}
+
+
+.LinkBxBlue:hover {color:#FF0;text-decoration:none;}
+
+
+
+
+/*PROGRAMMES BOX*/
+#BlocPROGRAMMES{width:96%;height:auto;
+            padding-bottom:10px;
+            background-color:#009de0;margin-top:-8px;
+            box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.30) inset;}
+
+
+
+.UlBxBlue{margin-left:0px; 
+          padding-left:0px;
+		  list-style:none;
+		  text-align:center;}
+		  
+.UlBxBlue li{margin-left:0px;
+             padding-left:0px;
+			 padding-bottom:4px;
+			 padding-bottom:4px;
+			 border-bottom:solid 1px #058dc7}
+
+.UlBxBlue li:hover{background-color:#058dc7}
+
+.LinkBxBlue2{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:13px;
+			padding-top:4px;
+			padding-bottom:4px;
+			padding-left:0px;
+			color:#fff;
+			margin-bottom:8px;text-decoration:none;}
+.LinkBxBlue2:hover {color:#FF0;}
+
+
+
+/*SEC GEN BOX*/
+
+#BlocSecGeneral{width:96%;height:auto;
+            background-color:#009de0;margin-top:-8px;
+            box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.30) inset;}
+
+
+
+
+
+
+#BlocEvntAVenir{width:96%;height:auto;
+            padding-bottom:20px;
+            background-color:#7030a0;margin-top:-8px;
+            box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.40) inset;}
+
+
+.TitleBxVert{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:16px;color:#fff;
+			padding-top:8px;
+            margin-bottom:8px;}
+
+.LinkBxVert{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:13px;
+			padding-top:8px;
+			
+			padding-left:8px;
+			color:#fff;}
+
+
+.LinkBxVert:hover {color:#FF0;text-decoration:none;}
+
+
+
+
+
+#BlocActuAutre{width:96%;height:auto;
+            padding-bottom:20px;
+            background-color:#900;margin-top:-8px;
+            box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.40) inset;}
+
+.DegradeInset{box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.40) inset;}
+
+
+#BlocActuASG{width:96%;height:auto;
+            padding-bottom:20px;
+            background-color:#fabe12;margin-top:-8px;
+            box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.40) inset;}
+
+
+/*Pages Actualité ALL Gors Bloc Le plus récent*/
+
+.ImgAll{padding:3px;border:solid 1px #CCC;background-color: #FDFDFD;
+            box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15) inset;
+            margin:2px 0 4px 0px;}
+
+.TitleAll{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:16px;color:#07306d;
+			margin-top:4px;
+            margin-bottom:2px;
+			margin-left:0px}
+
+.DatePubAll{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:13px;color:#ccc;
+			margin-left:0px;
+			margin-top:0px;
+			margin-bottom:4px;}
+			
+.DétailAll{font-weight:400;
+         font-family:'Open Sans', Geneva, sans-serif;
+         font-size:13px;color:#000;
+		 margin-left:0px;
+		 margin-top:10px;
+		 margin-bottom:4px;
+		 
+		 padding-right:2px;
+		 padding-bottom:30px;}
+
+
+
+.BigBloc{width:62%;height:auto;margin-left:0px;margin-right:25px;margin-top:0px;margin-bottom:0px;}
+
+
+
+
+
+
+.SmallBloc{width:29%;height:auto;margin-right:20px;margin-top:0px;}
+
+.ImgAll2{padding:3px;border:solid 1px #CCC;background-color: #FDFDFD;
+            box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15) inset;
+            margin:2px 0 4px 0px;}
+
+.TitleAll2{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:15px;color:#07306d;
+			margin-top:4px;
+            margin-bottom:2px;
+			margin-left:0px}
+
+.DatePubAll2{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:12px;color:#ccc;
+			margin-left:0px;
+			margin-top:0px;
+			margin-bottom:4px;}
+			
+.DétailAll2{font-weight:400;
+         font-family:'Open Sans', Geneva, sans-serif;
+         font-size:12px;color:#000;
+		 margin-left:0px;
+		 margin-top:10px;
+		 margin-bottom:4px;
+		 
+		 padding-right:2px;
+		 padding-bottom:20px;
+		 height:80px;
+		 }
+
+
+.LinkAll2{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:15px;color:#06C;
+			margin-top:4px;
+            margin-bottom:2px;
+			margin-left:0px;
+			text-decoration:none;}
+
+
+
+.LinkAll2:hover{color:#F00;}
+
+
+
+.LINKOTHER{padding:1px 8px 1px 8px;
+           background-color:#fff;
+		   font-size:12px;color:#000;
+		   font-family:'Open Sans', Geneva, sans-serif;
+		   text-decoration:none;}
+
+
+.LINKOTHER:hover{background-color:#000;color:#fff;}
+
+
+
+
+.RightBlocAllSG{width:27%;height:auto;
+                padding-top:0px;padding-bottom:0px}
+
+
+
+
+/*Accueil PROGRAMMES*/
+.TitreProgrmm{letter-spacing:0.8px;
+        font-weight:normal;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#fff;
+        
+        width:100%;
+		margin-left:auto;margin-right:auto;
+        margin-top:0px;margin-bottom:2px;
+		
+		padding-top:4px;padding-bottom:4px;
+		background-color:#2d5fb2;}
+
+.TitreDiplRec{letter-spacing:0.8px;
+        font-weight:normal;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#fff;
+        
+        width:100%;
+		margin-left:auto;margin-right:auto;
+        margin-top:0px;margin-bottom:2px;
+		
+		padding-top:4px;padding-bottom:4px;
+		background-color:#7030a0;}		
+
+.TitrePaysMmbr{letter-spacing:0.8px;
+        font-weight:normal;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#fff;
+        
+        width:100%;
+		margin-left:auto;margin-right:auto;
+        margin-top:0px;margin-bottom:2px;
+		
+		padding-top:4px;padding-bottom:4px;
+		background-color:#7da03a;}
+
+.TitreSECGEN{letter-spacing:0.8px;
+        font-weight:normal;
+        font-family:Ma-Super-Fonte-2, Geneva, sans-serif;
+        font-size:15px;color:#fff;
+        
+        width:100%;
+		margin-left:auto;margin-right:auto;
+        margin-top:0px;margin-bottom:2px;
+		
+		padding-top:4px;padding-bottom:4px;
+		background-color:#fabe12;}
+		
+		
+.Bloc { margin-top:0px;
+        padding-top:0px;height:380px;
+		
+        /*TRES IMPORTANT POUR LE FOND  */
+        background-color: #FDFDFD;
+        box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15) inset;}	
+		
+		
+		
+		
+.UL_Block{list-style:none;margin-left:0px;padding-left:10px;text-align:center;}
+.UL_Block li{height:24px;line-height:14px;margin-bottom:8px;}
+		
+.Links_Blocs{font-weight:normal;text-decoration:underline;
+        font-family:'Oxygen', Geneva, sans-serif;
+        font-size:13px;
+		color:#4555a8;
+		padding:4px 4px 4px 4px;
+			
+}			
+.Links_Blocs:hover{color:#930; }	
+		
+		
+		
+#Bloc-Video{float:left;width:96%;height:130px;
+            background-color:#fff;
+            margin-top:10px;margin-left:10px;margin-bottom:10px;
+            
+            border:solid 1px #e1dede;}		
+		
+		
+		
+#Bloc-PhotoTeque{width:90%;height:25px;
+               letter-spacing:0.8px; 
+               margin-left:4spx;
+               margin-top:20px;margin-bottom:8px;
+               padding-top:8px;
+               background-color:#9bbddb;
+			   border:solid 1px #9bbddb;}			   
+#Bloc-PhotoTeque:hover{border:solid 1px #fff;}			   
+			   
+#Bloc-PhotoTeque a{text-decoration:none;color:#0b355b;}			   
+			   
+			   
+#Bloc-PhotoTeque a:hover{color:#fff;}		
+		
+		
+/************************************************
+	      JCAROUSEL LITE		
+************************************************/
+#list {background-color:#edf0f7;
+	height:130px;
+	width:100%/*880px*/; 
+	margin:30px auto; 
+}
+
+.slider {
+	float:left;
+	left: -5000px; 
+	margin:15px; 
+	position:relative; 
+	visibility:hidden;	
+}
+	
+.slider ul {
+	height:100px;
+	width:600px; 
+}
+
+.slider ul li {
+	padding:0 20px;
+}
+
+.slider ul li img {
+	cursor:pointer;
+	height:90px; 
+	padding-top:3px;
+	width:108px;  
+}
+
+.prev {
+	cursor:pointer; 
+	float:left;
+	padding-top:60px;
+}
+
+.next {
+	cursor:pointer; 
+	float:right; 
+	padding-top:60px;
+}
+
+/************************************************
+	      CAPTIFY CAPTION		
+************************************************/
+.caption-top, .caption-bottom {
+	background: #000000;
+	color: #ffffff; 
+	cursor:default;
+	padding:2px; 
+	font-size:11px;   
+	text-align:center;
+}
+
+.caption-top {
+	border-width:0px;
+}
+
+.caption-bottom {
+	border-width:0px;
+}
+
+.caption a, .caption a {
+	background:#000;
+	border:none; 
+	text-decoration:none;  
+	padding:2px;
+}
+
+.caption a:hover, .caption a:hover {
+	background:#202020;
+}
+		
+		
+/*PAGE OPPORTUNITES*/	
+.Title2{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:14px;color:#07306d;
+			margin-top:10px;
+            margin-bottom:2px;
+			margin-left:20px}		
+		
+.DétailOpp{font-weight:400;
+         font-family:'Open Sans', Geneva, sans-serif;
+         font-size:13px;color:#000;
+ 
+		 padding-bottom:8px;
+		 padding-top:8px;
+		 padding-left:4px;
+		  padding-right:4px;
+		 
+		 
+}		
+		
+.Title3{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:14px;color:#fff;
+			margin-top:10px;
+            margin-bottom:2px;
+			margin-left:20px}	
+		
+		
+.BlocMiniature{margin-left:auto;margin-right:auto;width:94%;height;auto;margin-bottom:8px;border-bottom: solid 1px #dca70f;padding-bottom:2px;background-color:#fbd76f;}		
+
+.BlocMiniature:hover{background-color:#fff;}
+.BlocMiniature:hover a {color:#fabe12;}
+
+
+
+.BlocMiniature2{margin-left:auto;margin-right:auto;width:94%;height;auto;margin-bottom:8px;border-bottom: solid 1px #dca70f;padding-bottom:2px;background-color:#8f57ba;}		
+
+.BlocMiniature2:hover{background-color:#fff;}
+.BlocMiniature2:hover a {color:#7030a0;}
+
+
+
+
+
+.BlocMiniature4{margin-left:auto;margin-right:auto;width:94%;height;auto;margin-bottom:8px;border-bottom: solid 1px #dca70f;padding-bottom:2px;background-color:#aa3030;}		
+
+.BlocMiniature4:hover{background-color:#fff;}
+.BlocMiniature4:hover a {color:#7030a0;}
+
+
+.BlocMiniature3{margin-left:auto;margin-right:auto;width:94%;height;auto;margin-bottom:8px;border-bottom: solid 1px #dca70f;padding-bottom:2px;background-color:#36b8ef;}		
+
+.BlocMiniature3:hover{background-color:#fff;}
+.BlocMiniature3:hover a {color:#7030a0;}
+
+
+
+.ImgCID{padding:3px;border:solid 1px #CCC;background-color: #FDFDFD;
+            box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15) inset;
+            margin:2px 0 8px 10px;}
+
+
+.TitleCDIDr{font-weight:400;
+            font-family:'Open Sans', Geneva, sans-serif;
+            font-size:14px;color:#07306d;
+			margin-top:0px;
+            margin-bottom:2px;
+			margin-left:0px;
+			padding-bottom:4px;padding-top:4px;}	
+.BlocThese{width:96%;min-height:150px;margin-left:auto;margin-right:auto;padding:0px;border:solid 1px #CCC;padding-bottom:20px;margin-bottom:10px;margin-top:10px;}			
+.BlocRevue{width:96%;margin-left:auto;margin-right:auto;padding:0px;border:solid 1px #CCC;padding-bottom:20px;min-height:150px;margin-bottom:10px;}			
+.BlocTelech{width:96%;margin-left:auto;margin-right:auto;padding:0px;border:solid 1px #CCC;padding-bottom:20px;min-height:150px;}
+.BlocStat{width:96%;margin-left:auto;margin-right:auto;padding:0px;border:solid 1px #FFF;padding-bottom:20px;min-height:150px;margin-bottom:10px;}			
+
+
+.UL_CID{list-style:none;margin-left:0px;padding-left:0px;}
+.UL_CID li{height:22px;background-color:#fff;margin-bottom:4px;padding-top:4px;padding-bottom:4px;
+           box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15) inset;}
+.UL_CID li:hover{ background-color:#d5edfd;margin-bottom:4px;padding-top:4px;padding-bottom:4px;
+           box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15) inset;}
+.UL_CID li a{}
+
+
+
+.BlocEventBig2{width:50%;height:auto;}
+
+
+.BlocCntacts{width:46%;min-height:160px;margin-left:auto;margin-right:auto;padding:0px;border:solid 1px #CCC;padding-bottom:20px;margin-bottom:10px;margin-top:120px;}
+
+
+
+
+
+
+
+
+
+
+
